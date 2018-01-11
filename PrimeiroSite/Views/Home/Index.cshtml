@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Super Maquinas Shop";
+}
+
+<div class="jumbotron">
+
+    <h2><strong>Super</strong> M<span style="text-decoration:underline">aquina</span>s Shop</h2>
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" style="width:1000px; height:300px">
+            <div class="item active">
+                <a href="Produto/Create"><img src="~/Imagens/banner1.jpg" width="550" height="240" alt="Banner 1"></a>
+</div>
+
+            <div class="item">
+                <a href="Produto/Create"><img src="~/Imagens/baner2.jpg" width="550" height="500" alt="Banner 2"></a>
+</div>
+
+            <div class="item">
+                <a href="Produto/Create"><img src="~/Imagens/baner3.jpg" width="800" height="300" alt="Banner 3"></a>
+            </div>
+        </div>
+
+        <br />
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+            <span class="sr-only">Anterior</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+            <span class="sr-only">Próximo</span>
+        </a>
+    </div>
+
+    <p class="lead">Veja aqui algumas de nossas feras</p>
+
+    @{
+        Html.RenderAction("ListagemProdutos", "Produto");
+    }
+
+</div>

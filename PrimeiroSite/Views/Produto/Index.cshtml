@@ -1,0 +1,51 @@
+﻿@model IEnumerable<PrimeiroSite.Models.Produto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Inicio</h2>
+
+<p>
+    @Html.ActionLink("Criar um novo produto", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Categoria.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Preco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QuantidadeEstoque)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Categoria.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Preco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuantidadeEstoque)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.IDProduto }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.IDProduto }) |
+            @Html.ActionLink("Deletar", "Delete", new { id=item.IDProduto })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,30 @@
+﻿@model PrimeiroSite.Models.ExternalLoginListViewModel
+@using Microsoft.Owin.Security
+
+<h4>Use outro serviço para Logar</h4>
+<hr />
+@{
+    var loginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+    if (loginProviders.Count() == 0) {
+        <div>
+            <p>
+                Esse é um serviço externo de autenticação configurado.
+                Veja mais aqui: <a href="http://go.microsoft.com/fwlink/?LinkId=403804">artigo</a> <br>
+                Para mais detalhes de configurações utilizando aplicações APS.NET
+                logue utilizando um serviço externo.
+                </p>
+        </div>
+    }
+    else {
+        using (Html.BeginForm("ExternalLogin", "Account", new { ReturnUrl = Model.ReturnUrl })) {
+            @Html.AntiForgeryToken()
+            <div id="socialLoginList">
+                <p>
+                    @foreach (AuthenticationDescription p in loginProviders) {
+                        <button type="submit" class="btn btn-default" id="@p.AuthenticationType" name="provider" value="@p.AuthenticationType" title="Login usando a @p.Caption conta">@p.AuthenticationType</button>
+                    }
+                </p>
+            </div>
+        }
+    }
+}

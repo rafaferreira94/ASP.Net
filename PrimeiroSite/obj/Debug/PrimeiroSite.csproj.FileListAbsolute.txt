@@ -1,0 +1,410 @@
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\ApplicationInsights.config
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\csc.exe
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\vbc.exe
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\PrimeiroSite.dll.config
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\PrimeiroSite.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\PrimeiroSite.pdb
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Antlr3.Runtime.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\EntityFramework.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.Web.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Owin.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.Helpers.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.Optimization.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.Razor.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\WebGrease.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.Web.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.Helpers.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.Optimization.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.Razor.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Antlr3.Runtime.pdb
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Newtonsoft.Json.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\EntityFramework.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\obj\Debug\PrimeiroSite.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\obj\Debug\PrimeiroSite.dll
+C:\Users\Victor\Desktop\PrimeiroSite\PrimeiroSite\obj\Debug\PrimeiroSite.pdb
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\ApplicationInsights.config
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\csc.exe
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\System.Collections.Immutable.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\vbc.exe
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\VBCSCompiler.exe
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\roslyn\VBCSCompiler.exe.config
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\PrimeiroSite.dll.config
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\PrimeiroSite.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\PrimeiroSite.pdb
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Antlr3.Runtime.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\EntityFramework.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\EntityFramework.SqlServer.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.Web.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.WindowsServer.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.ApplicationInsights.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Google.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Web.Infrastructure.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Newtonsoft.Json.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Owin.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.Helpers.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.Mvc.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.Optimization.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.Razor.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.Deployment.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.Razor.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\WebGrease.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.Web.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AI.WindowsServer.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.ApplicationInsights.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.Helpers.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.Mvc.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.Optimization.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.Razor.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.Deployment.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\System.Web.WebPages.Razor.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Antlr3.Runtime.pdb
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Newtonsoft.Json.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\EntityFramework.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\EntityFramework.SqlServer.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Google.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\obj\Debug\PrimeiroSite.csprojResolveAssemblyReference.cache
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\obj\Debug\PrimeiroSite.dll
+D:\Backups\BKP Desktop\2017\bkp20170501\PrimeiroSite\PrimeiroSite\obj\Debug\PrimeiroSite.pdb
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\ApplicationInsights.config
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\csc.exe
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\vbc.exe
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.dll.config
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.pdb
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Antlr3.Runtime.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Web.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Owin.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Helpers.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Optimization.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Razor.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\WebGrease.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Web.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Helpers.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Optimization.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Razor.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Antlr3.Runtime.pdb
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Newtonsoft.Json.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.dll
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.pdb
+C:\Users\Victor\Desktop\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\ApplicationInsights.config
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\csc.exe
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\vbc.exe
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.dll.config
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.pdb
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Antlr3.Runtime.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Web.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Newtonsoft.Json.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Owin.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Helpers.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Mvc.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Optimization.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Razor.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\WebGrease.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Web.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Helpers.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Mvc.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Optimization.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Razor.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Antlr3.Runtime.pdb
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Newtonsoft.Json.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.dll
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.pdb
+C:\Users\Rafael\Documents\Unip\7 Semestre\CCI\Aula16e17 (2bim) - Carrinho de compras\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.csprojResolveAssemblyReference.cache
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\ApplicationInsights.config
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\csc.exe
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\vbc.exe
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.dll.config
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\PrimeiroSite.pdb
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Antlr3.Runtime.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.SqlServer.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Web.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Newtonsoft.Json.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Owin.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Helpers.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Mvc.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Optimization.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Razor.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\WebGrease.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.Web.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Helpers.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Mvc.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Optimization.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.Razor.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Antlr3.Runtime.pdb
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Newtonsoft.Json.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\EntityFramework.SqlServer.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.csprojResolveAssemblyReference.cache
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.dll
+C:\Users\rafae_000\Desktop\PrimeiroSite_Final\PrimeiroSite\obj\Debug\PrimeiroSite.pdb

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<PrimeiroSite.Models.Produto>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model == null || Model.Count() == 0)
+{
+    <br />
+    <h3>Carrinho está vazio</h3>
+
+}
+
+<br />
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>..</th>
+            <th>Produto</th>
+            <th>Categoria</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model)
+{
+        <tr>
+            <td><img class="card-img-top" src="~/Imagens/Produtos/@item.Imagem" width="80px" height="40px"></td>
+            <td>@item.Nome</td>
+            <td>@item.Categoria.Descricao</td>
+            <td>@item.Preco</td>
+            <td>@item.QuantidadeEstoque</td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+

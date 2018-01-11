@@ -1,0 +1,27 @@
+﻿@model IEnumerable<PrimeiroSite.Models.Produto>
+
+@{ 
+    Layout = null;
+}
+
+<div class="row">
+@foreach (var item in Model)
+{
+    <div class="col-md-4">
+        <div class="card" style="width: 20rem;">
+            <img class="card-img-top" src="~/Imagens/Produtos/@item.Imagem">
+            <div class="card-block">
+                <h4 class="card-title">@item.Nome</h4>
+                <p class="card-text">
+                    @item.Categoria.Descricao<br />
+                    Preço: @item.Preco<br />
+                    Quantidade: @item.QuantidadeEstoque
+                </p>
+                <a href="/Carrinho/Adicionar/@item.IDProduto" class="btn btn-primary">Add ao Carrinho</a>
+            </div>
+        </div>
+    </div>
+}
+</div>
+
+
